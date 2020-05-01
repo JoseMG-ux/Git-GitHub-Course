@@ -1,8 +1,8 @@
-# Cabeceras
-# Cabecera H1 
-## Cabecera h2
-### Cabecera h3
-#### Cabecera h4
+# Headboard
+# Headboard H1 
+## Headboard H2
+### Headboard H3
+#### Headboard H4
 
 <hr>
 
@@ -14,7 +14,7 @@ Underline2
 
 
 
-# Formatos de Emphasis
+# Emphasis format
 -  *Italica* 1.
 -  _Italica_ 2.
 
@@ -22,15 +22,15 @@ Underline2
 
 - ~~Tachado~~ 
 
-# Listas
+# Lists
 
-1. Item1, de lista ordenada.
-2. Item2, de lista ordenada
-3. Item3, de lista ordenada
+1. Item1, ordered list
+2. Item2, ordered list
+3. Item3, ordered list
 
-- Item de lista desordenada.
-- Item de lista desordenada.
-- Item de lista desordenada.
+- Item1, disordered list
+- Item2, disordered list
+- Item3, disordered list 
 
 # Links
 
